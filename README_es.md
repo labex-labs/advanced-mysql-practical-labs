@@ -14,6 +14,31 @@ En este curso, domine técnicas avanzadas de MySQL a través de laboratorios pr�
 ![Database](https://img.shields.io/badge/Database-whitesmoke?style=for-the-badge&logo=database)
 
 
+## Ejercicios
+
+|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                                |
+|----------|-------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 Índices MySQL y Optimización del Rendimiento          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-indexes-and-performance-optimization-550910'>Iniciar Laboratorio</a> |
+|       02 | 📖 🟢 Vistas y tablas virtuales de MySQL                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-views-and-virtual-tables-550920'>Iniciar Laboratorio</a>             |
+|       03 | 📖 🟢 Conceptos básicos de los procedimientos almacenado... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-stored-procedures-basics-550915'>Iniciar Laboratorio</a>             |
+|       04 | 📖 🟢 Funciones y lógica personalizada en MySQL             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-functions-and-custom-logic-550908'>Iniciar Laboratorio</a>           |
+|       05 | 📖 🟢 Triggers de MySQL para Automatización                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-triggers-for-automation-550919'>Iniciar Laboratorio</a>              |
+|       06 | 📖 🟢 Transacciones de MySQL e Integridad de Datos          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-transactions-and-data-integrity-550918'>Iniciar Laboratorio</a>      |
+|       07 | 📖 🟢 Subconsultas y operaciones anidadas en MySQL          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-subqueries-and-nested-operations-550916'>Iniciar Laboratorio</a>     |
+|       08 | 📖 🟢 Tablas Temporales y Datos de Sesión en MySQL          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-temporary-tables-and-session-data-550917'>Iniciar Laboratorio</a>    |
+|       09 | 📖 🟢 Particionamiento de MySQL para Grandes Conjuntos d... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-partitioning-for-large-datasets-550912'>Iniciar Laboratorio</a>      |
+|       10 | 📖 🟢 Capacidades de búsqueda de texto completo en MySQL    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-full-text-search-capabilities-550907'>Iniciar Laboratorio</a>        |
+|       11 | 📖 🟢 Conceptos Básicos de la Replicación de MySQL          | Principiante | Próximamente                                                                                                                            |
+|       12 | 📖 🟢 Copia de seguridad y recuperación de MySQL            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-backup-and-recovery-550902'>Iniciar Laboratorio</a>                  |
+|       13 | 📖 🟢 Configuración y ajuste de MySQL                       | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-configuration-and-tuning-550904'>Iniciar Laboratorio</a>             |
+|       14 | 📖 🟢 Mejores prácticas de seguridad en MySQL               | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-security-best-practices-550914'>Iniciar Laboratorio</a>              |
+|       15 | 📖 🟢 Manejo de datos JSON en MySQL                         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-json-data-handling-550911'>Iniciar Laboratorio</a>                   |
+|       16 | 📖 🟢 Funciones Ventana de MySQL                            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-window-functions-550921'>Iniciar Laboratorio</a>                     |
+|       17 | 📖 🟢 Expresiones de Tabla Comunes (CTE) en MySQL           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-common-table-expressions-ctes-550903'>Iniciar Laboratorio</a>        |
+|       18 | 📖 🟢 Manejo y registro de errores en MySQL                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-error-handling-and-logging-550905'>Iniciar Laboratorio</a>           |
+|       19 | 📖 🟢 Programador de Eventos de MySQL (MySQL Event Sched... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-event-scheduler-550906'>Iniciar Laboratorio</a>                      |
+|       20 | 📖 🟢 Operaciones de importación y exportación de MySQL     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mysql-mysql-import-and-export-operations-550909'>Iniciar Laboratorio</a>         |
+
 ## Entorno
 
 LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
@@ -24,34 +49,9 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
 - Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
 - Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje de IA Labby, construido sobre ChatGPT, que proporciona una experiencia de aprendizaje conversacional.
+- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Ejercicios
-
-|   Índice | Nombre                                                   | Dificultad   | Práctica     |
-|----------|----------------------------------------------------------|--------------|--------------|
-|       01 | 📖 Índices de MySQL y Optimización de Rendimiento        | Principiante | Próximamente |
-|       02 | 📖 Vistas y tablas virtuales de MySQL                    | Principiante | Próximamente |
-|       03 | 📖 Conceptos básicos de los procedimientos almacenado... | Principiante | Próximamente |
-|       04 | 📖 Funciones y lógica personalizada en MySQL             | Principiante | Próximamente |
-|       05 | 📖 Triggers de MySQL para Automatización                 | Principiante | Próximamente |
-|       06 | 📖 Transacciones de MySQL e Integridad de Datos          | Principiante | Próximamente |
-|       07 | 📖 Subconsultas y operaciones anidadas en MySQL          | Principiante | Próximamente |
-|       08 | 📖 Tablas temporales de MySQL y datos de sesión          | Principiante | Próximamente |
-|       09 | 📖 Particionamiento de MySQL para grandes conjuntos d... | Principiante | Próximamente |
-|       10 | 📖 Capacidades de búsqueda de texto completo en MySQL    | Principiante | Próximamente |
-|       11 | 📖 Conceptos Básicos de la Replicación de MySQL          | Principiante | Próximamente |
-|       12 | 📖 Copia de seguridad y recuperación de MySQL            | Principiante | Próximamente |
-|       13 | 📖 Configuración y ajuste de MySQL                       | Principiante | Próximamente |
-|       14 | 📖 Mejores prácticas de seguridad en MySQL               | Principiante | Próximamente |
-|       15 | 📖 Manejo de datos JSON en MySQL                         | Principiante | Próximamente |
-|       16 | 📖 Funciones Ventana de MySQL                            | Principiante | Próximamente |
-|       17 | 📖 Expresiones de Tabla Comunes (CTE) en MySQL           | Principiante | Próximamente |
-|       18 | 📖 Manejo y registro de errores en MySQL                 | Principiante | Próximamente |
-|       19 | 📖 Programador de Eventos de MySQL (MySQL Event Sched... | Principiante | Próximamente |
-|       20 | 📖 Operaciones de importación y exportación de MySQL     | Principiante | Próximamente |
 
 ## Más
 
