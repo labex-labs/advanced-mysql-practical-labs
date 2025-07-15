@@ -14,6 +14,31 @@ In this course, master advanced MySQL techniques through hands-on labs covering 
 ![Database](https://img.shields.io/badge/Database-whitesmoke?style=for-the-badge&logo=database)
 
 
+## Exercises
+
+|   Index | Name                                             | Difficulty   | Practice                                                                                                                   |
+|---------|--------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 MySQL Indexes and Performance Optimization | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-indexes-and-performance-optimization-550910'>Start Lab</a> |
+|      02 | 📖 🟢 MySQL Views and Virtual Tables             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-views-and-virtual-tables-550920'>Start Lab</a>             |
+|      03 | 📖 🟢 MySQL Stored Procedures Basics             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-stored-procedures-basics-550915'>Start Lab</a>             |
+|      04 | 📖 🟢 MySQL Functions and Custom Logic           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-functions-and-custom-logic-550908'>Start Lab</a>           |
+|      05 | 📖 🟢 MySQL Triggers for Automation              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-triggers-for-automation-550919'>Start Lab</a>              |
+|      06 | 📖 🟢 MySQL Transactions and Data Integrity      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-transactions-and-data-integrity-550918'>Start Lab</a>      |
+|      07 | 📖 🟢 MySQL Subqueries and Nested Operations     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-subqueries-and-nested-operations-550916'>Start Lab</a>     |
+|      08 | 📖 🟢 MySQL Temporary Tables and Session Data    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-temporary-tables-and-session-data-550917'>Start Lab</a>    |
+|      09 | 📖 🟢 MySQL Partitioning for Large Datasets      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-partitioning-for-large-datasets-550912'>Start Lab</a>      |
+|      10 | 📖 🟢 MySQL Full-Text Search Capabilities        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-full-text-search-capabilities-550907'>Start Lab</a>        |
+|      11 | 📖 🟢 MySQL Replication Basics                   | Beginner     | Coming Soon                                                                                                                |
+|      12 | 📖 🟢 MySQL Backup and Recovery                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-backup-and-recovery-550902'>Start Lab</a>                  |
+|      13 | 📖 🟢 MySQL Configuration and Tuning             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-configuration-and-tuning-550904'>Start Lab</a>             |
+|      14 | 📖 🟢 MySQL Security Best Practices              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-security-best-practices-550914'>Start Lab</a>              |
+|      15 | 📖 🟢 MySQL JSON Data Handling                   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-json-data-handling-550911'>Start Lab</a>                   |
+|      16 | 📖 🟢 MySQL Window Functions                     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-window-functions-550921'>Start Lab</a>                     |
+|      17 | 📖 🟢 MySQL Common Table Expressions (CTEs)      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-common-table-expressions-ctes-550903'>Start Lab</a>        |
+|      18 | 📖 🟢 MySQL Error Handling and Logging           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-error-handling-and-logging-550905'>Start Lab</a>           |
+|      19 | 📖 🟢 MySQL Event Scheduler                      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-event-scheduler-550906'>Start Lab</a>                      |
+|      20 | 📖 🟢 MySQL Import and Export Operations         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-import-and-export-operations-550909'>Start Lab</a>         |
+
 ## Environment
 
 LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience.
@@ -24,34 +49,9 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
-- The AI learning assistant Labby, built on ChatGPT, providing a conversational learning experience.
+- The learning assistant Labby, built on lastest AI models, providing a conversational learning experience.
 
 Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercises
-
-|   Index | Name                                          | Difficulty   | Practice    |
-|---------|-----------------------------------------------|--------------|-------------|
-|      01 | 📖 MySQL Indexes and Performance Optimization | Beginner     | Coming Soon |
-|      02 | 📖 MySQL Views and Virtual Tables             | Beginner     | Coming Soon |
-|      03 | 📖 MySQL Stored Procedures Basics             | Beginner     | Coming Soon |
-|      04 | 📖 MySQL Functions and Custom Logic           | Beginner     | Coming Soon |
-|      05 | 📖 MySQL Triggers for Automation              | Beginner     | Coming Soon |
-|      06 | 📖 MySQL Transactions and Data Integrity      | Beginner     | Coming Soon |
-|      07 | 📖 MySQL Subqueries and Nested Operations     | Beginner     | Coming Soon |
-|      08 | 📖 MySQL Temporary Tables and Session Data    | Beginner     | Coming Soon |
-|      09 | 📖 MySQL Partitioning for Large Datasets      | Beginner     | Coming Soon |
-|      10 | 📖 MySQL Full-Text Search Capabilities        | Beginner     | Coming Soon |
-|      11 | 📖 MySQL Replication Basics                   | Beginner     | Coming Soon |
-|      12 | 📖 MySQL Backup and Recovery                  | Beginner     | Coming Soon |
-|      13 | 📖 MySQL Configuration and Tuning             | Beginner     | Coming Soon |
-|      14 | 📖 MySQL Security Best Practices              | Beginner     | Coming Soon |
-|      15 | 📖 MySQL JSON Data Handling                   | Beginner     | Coming Soon |
-|      16 | 📖 MySQL Window Functions                     | Beginner     | Coming Soon |
-|      17 | 📖 MySQL Common Table Expressions (CTEs)      | Beginner     | Coming Soon |
-|      18 | 📖 MySQL Error Handling and Logging           | Beginner     | Coming Soon |
-|      19 | 📖 MySQL Event Scheduler                      | Beginner     | Coming Soon |
-|      20 | 📖 MySQL Import and Export Operations         | Beginner     | Coming Soon |
 
 ## More
 
