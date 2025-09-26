@@ -16,28 +16,28 @@ In diesem Kurs meistern Sie fortgeschrittene MySQL-Techniken anhand von praktisc
 
 ## Übungen
 
-|   Index | Name                                                   | Schwierigkeit   | Übung                                                                                                                             |
-|---------|--------------------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🟢 MySQL-Indizes und Performance-Optimierung        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-indexes-and-performance-optimization-550910'>Labor Starten</a> |
-|      02 | 📖 🟢 MySQL-Sichten (Views) und virtuelle Tabellen     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-views-and-virtual-tables-550920'>Labor Starten</a>             |
-|      03 | 📖 🟢 Grundlagen von MySQL gespeicherten Prozeduren    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-stored-procedures-basics-550915'>Labor Starten</a>             |
-|      04 | 📖 🟢 MySQL-Funktionen und benutzerdefinierte Logik    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-functions-and-custom-logic-550908'>Labor Starten</a>           |
-|      05 | 📖 🟢 MySQL-Triggers für Automatisierung               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-triggers-for-automation-550919'>Labor Starten</a>              |
-|      06 | 📖 🟢 MySQL-Transaktionen und Datenintegrität          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-transactions-and-data-integrity-550918'>Labor Starten</a>      |
-|      07 | 📖 🟢 MySQL-Subabfragen und verschachtelte Operationen | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-subqueries-and-nested-operations-550916'>Labor Starten</a>     |
-|      08 | 📖 🟢 MySQL Temporäre Tabellen und Sitzungsdaten       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-temporary-tables-and-session-data-550917'>Labor Starten</a>    |
-|      09 | 📖 🟢 MySQL-Partitionierung für große Datensätze       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-partitioning-for-large-datasets-550912'>Labor Starten</a>      |
-|      10 | 📖 🟢 MySQL Volltextsuche - Funktionen                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-full-text-search-capabilities-550907'>Labor Starten</a>        |
-|      11 | 📖 🟢 Grundlagen der MySQL-Replikation                 | Anfänger        | Demnächst Verfügbar                                                                                                               |
-|      12 | 📖 🟢 MySQL-Sicherung und -Wiederherstellung           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-backup-and-recovery-550902'>Labor Starten</a>                  |
-|      13 | 📖 🟢 MySQL-Konfiguration und -Optimierung             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-configuration-and-tuning-550904'>Labor Starten</a>             |
-|      14 | 📖 🟢 MySQL-Sicherheitsbest Practices                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-security-best-practices-550914'>Labor Starten</a>              |
-|      15 | 📖 🟢 Verarbeitung von JSON-Daten in MySQL             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-json-data-handling-550911'>Labor Starten</a>                   |
-|      16 | 📖 🟢 MySQL-Fensterfunktionen (Window Functions)       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-window-functions-550921'>Labor Starten</a>                     |
-|      17 | 📖 🟢 MySQL Common Table Expressions (CTEs)            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-common-table-expressions-ctes-550903'>Labor Starten</a>        |
-|      18 | 📖 🟢 MySQL-Fehlerbehandlung und Protokollierung       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-error-handling-and-logging-550905'>Labor Starten</a>           |
-|      19 | 📖 🟢 MySQL Event Scheduler                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-event-scheduler-550906'>Labor Starten</a>                      |
-|      20 | 📖 🟢 MySQL Import- und Exportvorgänge                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-import-and-export-operations-550909'>Labor Starten</a>         |
+|   Index | Name                                                  | Schwierigkeit   | Übung                                                                                                                             |
+|---------|-------------------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🆓 MySQL Indizes und Leistungsoptimierung          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-indexes-and-performance-optimization-550910'>Labor Starten</a> |
+|      02 | 📖 🆓 MySQL Views und virtuelle Tabellen              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-views-and-virtual-tables-550920'>Labor Starten</a>             |
+|      03 | 📖 🆓 Grundlagen von MySQL Stored Procedures          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-stored-procedures-basics-550915'>Labor Starten</a>             |
+|      04 | 📖 🆓 MySQL-Funktionen und benutzerdefinierte Logik   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-functions-and-custom-logic-550908'>Labor Starten</a>           |
+|      05 | 📖 🆓 MySQL Trigger für Automatisierung               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-triggers-for-automation-550919'>Labor Starten</a>              |
+|      06 | 📖 🆓 MySQL Transaktionen und Datenintegrität         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-transactions-and-data-integrity-550918'>Labor Starten</a>      |
+|      07 | 📖 🆓 MySQL Subqueries und verschachtelte Operationen | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-subqueries-and-nested-operations-550916'>Labor Starten</a>     |
+|      08 | 📖  MySQL Temporäre Tabellen und Sitzungsdaten        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-temporary-tables-and-session-data-550917'>Labor Starten</a>    |
+|      09 | 📖  MySQL Partitionierung für große Datensätze        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-partitioning-for-large-datasets-550912'>Labor Starten</a>      |
+|      10 | 📖  MySQL Volltextsuchfunktionen                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-full-text-search-capabilities-550907'>Labor Starten</a>        |
+|      11 | 📖  MySQL Replikationsgrundlagen                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-replication-basics-550913'>Labor Starten</a>                   |
+|      12 | 📖  MySQL Backup und Wiederherstellung                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-backup-and-recovery-550902'>Labor Starten</a>                  |
+|      13 | 📖  MySQL Konfiguration und Tuning                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-configuration-and-tuning-550904'>Labor Starten</a>             |
+|      14 | 📖  MySQL-Sicherheitspraktiken                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-security-best-practices-550914'>Labor Starten</a>              |
+|      15 | 📖  Umgang mit JSON-Daten in MySQL                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-json-data-handling-550911'>Labor Starten</a>                   |
+|      16 | 📖  MySQL Fensterfunktionen                           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-window-functions-550921'>Labor Starten</a>                     |
+|      17 | 📖  MySQL Common Table Expressions (CTEs)             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-common-table-expressions-ctes-550903'>Labor Starten</a>        |
+|      18 | 📖  MySQL Fehlerbehandlung und Protokollierung        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-error-handling-and-logging-550905'>Labor Starten</a>           |
+|      19 | 📖  MySQL Event Scheduler                             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-event-scheduler-550906'>Labor Starten</a>                      |
+|      20 | 📖  MySQL Import- und Exportoperationen               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-import-and-export-operations-550909'>Labor Starten</a>         |
 
 ## Umgebung
 
